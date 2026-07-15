@@ -1,7 +1,6 @@
-## Hi there 👋
+## <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);ljy你好呀！👋&center=true&size=27"> </a> </h1>
 ![Metrics](https://metrics.lecoq.io/ljy-negroni?template=classic&languages=1&introduction=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai)
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=LJY-negroni" /> </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=LJY-negroni&theme=xcode" /> </div>
+
 <!--
 **ljy-negroni/LJY-negroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
